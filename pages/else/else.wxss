@@ -1,0 +1,8 @@
+/* pages/else/else.wxss */
+.small{
+  font-size: 20px;
+  color: red;
+}
+image{
+  width: 100%;
+}

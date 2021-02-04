@@ -1,0 +1,37 @@
+{
+  "pages":[
+    "pages/else/else",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+ 
+  "entryPagePath": "pages/index/index",
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath":"./pages/image/1.jpg"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath":"./pages/image/2.jpg"
+      },
+      {
+        "pagePath": "pages/else/else",
+        "text": "其他",
+        "iconPath":"./pages/image/3.jpg"
+      }
+    ]
+  }
+  
+}

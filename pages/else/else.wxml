@@ -1,0 +1,5 @@
+<!--pages/else/else.wxml-->
+
+<image src="../image/1.jpg"></image>
+<text class="small">小程序</text>
+<button size="mini">按钮</button>
